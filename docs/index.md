@@ -3,8 +3,9 @@ layout: home
 
 features:
   - icon: 🛠️
-    title: Simple and minimal, always
-    details: Lorem ipsum...
+    title: 组件收藏
+    details: 我做前端过程中看到的组件
+    link: '/component'
   - icon:
       src: /cool-feature-icon.svg
     title: Another cool feature
