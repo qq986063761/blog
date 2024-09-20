@@ -8,6 +8,10 @@ export default {
     },
     sidebar: [
       {
+        text: '主页',
+        link: '/index'
+      },
+      {
         text: '自我介绍',
         link: '/introduce'
       },
