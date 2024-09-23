@@ -74,3 +74,22 @@
 - [FileSaver](https://www.npmjs.com/package/file-saver)
 - [jspdf](https://github.com/parallax/jsPDF)
 - [html2pdf](https://ekoopmans.github.io/html2pdf.js/)
+
+# 系统热键
+- [剪贴板 clipboardjs](http://www.clipboardjs.cn/)
+- [剪贴板 copy-to-clipboard](https://www.npmjs.com/package/copy-to-clipboard)
+- [热键 hotkeys](https://wangchujiang.com/hotkeys-js/)
+- [全屏 screenfull](https://github.com/sindresorhus/screenfull.js/)
+
+# 页面效果
+- [fullPage](https://alvarotrigo.com/fullPage/zh/)
+
+# iframe 通信
+- [postmate](https://www.npmjs.com/package/postmate)
+- [iframe-helper](https://www.npmjs.com/package/iframe-helper)
+
+# css库
+- [特效 csshake](http://elrumordelaluz.github.io/csshake/);
+- [特效 animate.css](https://daneden.github.io/animate.css/);
+- [特效 hover.css](http://ianlunn.github.io/Hover/)
+- [css原子化](https://tailwindcss.com/)
