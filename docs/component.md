@@ -1,5 +1,5 @@
 # 帮助引导
-- [driver.js 1.x](https://driverjs.com/)
+- [driver.js](https://driverjs.com/)
 - [leader-line](https://anseki.github.io/leader-line/)
 - [vue-tour](https://github.com/pulsardev/vue-tour)
 
